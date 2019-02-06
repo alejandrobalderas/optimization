@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 
 file_location = "./data/ks_30_0"
 with open(file_location,"r") as input_data_file:
